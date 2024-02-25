@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **jananivarnam30@gmail.com**
 
-- ⚡ Fun fact **⏩ Quick Learner**
 <h2>⚒️ Languages-Frameworks-Tools</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=postman,java,javascript,mysql" />
