@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jananivarnam.jananivarnam" />
+![janani's Banner Image](./banner.png)
  
 
 <h1 align="center">
@@ -6,7 +6,6 @@
 </h1>
 <h3 align="center">A passionate Software Tester | Specialized in Automation & Manual Testing | Enhancing Software Quality & Reliability</h3>
 <img align="right" alt="coding" width="400" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jananivarnam&label=Profile%20views&color=0e75b6&style=flat" alt="jananivarnam" /> </p>
 
 - 🌱 I’m currently learning **Postman,Selenium**
 
