@@ -29,7 +29,7 @@
 
 <h2>⚒️ Languages-Frameworks-Tools</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=postman,java,javascript,mysql" />
+    <img src="https://skillicons.dev/icons?i=postman,java,mysql" />
 
 </div>
 
@@ -42,10 +42,5 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/jananisvarnam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jananisvarnam" height="30" width="40" /></a>
 </p>
 
-<h2>🔥 Stats</h2>
 
-  <div id="stats">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=jananivarnam&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=jananivarnam&show_icons=true&theme=radical"/>
-  </div>
 
