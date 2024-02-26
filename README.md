@@ -28,7 +28,7 @@
 
 
 <h2>⚒️ Languages-Frameworks-Tools</h2>
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=postman,java,javascript,mysql" />
 
 </div>
